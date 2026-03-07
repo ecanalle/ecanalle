@@ -58,28 +58,6 @@ struct DevCanalle: Identifiable, CustomStringConvertible {
   <img src="https://img.shields.io/badge/SQL-555555?logo=code&logoColor=white&style=for-the-badge" alt="SQL"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCanalle&show_icons=true&theme=dark&title_color=F05138&icon_color=F05138&border_color=30303F" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCanalle&layout=compact&theme=dark&title_color=F05138&border_color=30303F"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCanalle&theme=dark&ring=F05138&fire=F05138&currStreakLabel=F05138"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevCanalle&theme=darkhub&column=7&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevCanalle/DevCanalle/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 ---
 
 <p align="center"><i>Made with ❤️ and Swift 🦅</i></p>
