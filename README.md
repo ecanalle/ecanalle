@@ -11,9 +11,9 @@
 
 struct DevCanalle: Identifiable, CustomStringConvertible {
 
-    let   name        = "Eric Canalle Bernardes"
-    var   currentRole  = "Senior Tech Analyst on PX.Center"
-    let   location     = "Joinville, Brasil"
+    let name = "Eric Canalle Bernardes"
+    var currentRole = "Senior Tech Analyst on PX.Center"
+    let location = "Joinville, Brasil"
 
     // MARK: - Skills
     let skills: [Skill] = [
@@ -25,13 +25,13 @@ struct DevCanalle: Identifiable, CustomStringConvertible {
     ]
 
     // MARK: - Right Now
-    var currentFocus  = "Explorando Swift e SwiftUI"
-    var funFact       = "Debugo por saudosismo e resolvo por curiosidade."
+    var currentFocus = "Explorando Swift e SwiftUI"
+    var funFact = "Debugo por saudosismo e resolvo por curiosidade."
 
     // MARK: - Contact
-    var github    = URL(string: "https://github.com/DevCanalle")!
-    var linkedin  = URL(string: "https://www.linkedin.com/in/eric-canalle/")!
-    var email     = "eric.canalle@icloud.com"
+    var github = URL(string: "https://github.com/DevCanalle")!
+    var linkedin = URL(string: "https://www.linkedin.com/in/eric-canalle/")!
+    var email = "eric.canalle@icloud.com"
 
     // MARK: - Methods
     func drinkCoffee() -> Energy  { .maximum }
