@@ -12,7 +12,7 @@
 struct DevCanalle: Identifiable, CustomStringConvertible {
 
     let   name        = "Eric Canalle Bernardes"
-    var   currentRole  = "Tech Analyst on PX.Center"
+    var   currentRole  = "Senior Tech Analyst on PX.Center"
     let   location     = "Joinville, Brasil"
 
     // MARK: - Skills
