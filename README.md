@@ -34,9 +34,9 @@ struct DevCanalle: Identifiable, CustomStringConvertible {
     var email = "eric.canalle@icloud.com"
 
     // MARK: - Methods
-    func drinkCoffee() -> Energy  { .maximum }
-    func openXcode() -> Mood    { .excited }
-    mutating func keepLearning()  { skills.append(.newTechnology) }
+    func drinkCoffee() -> Energy {.maximum}
+    func openXcode() -> Mood {.excited}
+    mutating func keepLearning() {skills.append(.newTechnology)}
 }
 ```
 
