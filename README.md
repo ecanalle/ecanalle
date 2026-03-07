@@ -35,7 +35,7 @@ struct DevCanalle: Identifiable, CustomStringConvertible {
 
     // MARK: - Methods
     func drinkCoffee() -> Energy  { .maximum }
-    func openXcode()   -> Mood    { .excited }
+    func openXcode() -> Mood    { .excited }
     mutating func keepLearning()  { skills.append(.newTechnology) }
 }
 ```
