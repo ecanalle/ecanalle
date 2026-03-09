@@ -43,8 +43,8 @@ struct EricCanalle: Identifiable, CustomStringConvertible {
 ## 📬 Contato
 
 <p align="left">
-  <a href="https://github.com/DevCanalle"><img src="https://img.shields.io/badge/GitHub-DevCanalle-F05138?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eric-canalle/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ecanalle"><img src="https://img.shields.io/badge/GitHub-ecanalle-F05138?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ecanalle/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eric.canalle@icloud.com"><img src="https://img.shields.io/badge/Email-eric.canalle@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
