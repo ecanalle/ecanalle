@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Eric Canalle Bernardes 👋</h1>
+<h1 align="center">Olá, eu sou Eric Canalle 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F05138&center=true&width=435&lines=Senior%20Tech%20Analyst%20on%20PX.Center%3BExplorando%20Swift%20e%20SwiftUI%3BSwift%20lover%20%F0%9F%A6%85" alt="Typing SVG" />
