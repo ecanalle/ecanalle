@@ -9,9 +9,9 @@
 ```swift
 // MARK: - About Me
 
-struct DevCanalle: Identifiable, CustomStringConvertible {
+struct eric.canalle: Identifiable, CustomStringConvertible {
 
-    let name = "Eric Canalle Bernardes"
+    let name = "Eric Canalle"
     var currentRole = "Senior Tech Analyst on PX.Center"
     let location = "Joinville, Brasil"
 
@@ -29,7 +29,7 @@ struct DevCanalle: Identifiable, CustomStringConvertible {
     var funFact = "Debugo por saudosismo e resolvo por curiosidade."
 
     // MARK: - Contact
-    var github = URL(string: "https://github.com/DevCanalle")!
+    var github = URL(string: "https://github.com/eric.canalle")!
     var linkedin = URL(string: "https://www.linkedin.com/in/eric-canalle/")!
     var email = "eric.canalle@icloud.com"
 
