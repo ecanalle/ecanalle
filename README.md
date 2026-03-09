@@ -9,7 +9,7 @@
 ```swift
 // MARK: - About Me
 
-struct eric.canalle: Identifiable, CustomStringConvertible {
+struct EricCanalle: Identifiable, CustomStringConvertible {
 
     let name = "Eric Canalle"
     var currentRole = "Senior Tech Analyst on PX.Center"
@@ -29,8 +29,8 @@ struct eric.canalle: Identifiable, CustomStringConvertible {
     var funFact = "Debugo por saudosismo e resolvo por curiosidade."
 
     // MARK: - Contact
-    var github = URL(string: "https://github.com/eric.canalle")!
-    var linkedin = URL(string: "https://www.linkedin.com/in/eric-canalle/")!
+    var github = URL(string: "https://github.com/ecanalle")!
+    var linkedin = URL(string: "https://www.linkedin.com/in/ecanalle/")!
     var email = "eric.canalle@icloud.com"
 
     // MARK: - Methods
