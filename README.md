@@ -47,7 +47,7 @@ final class EricCanalle: Identifiable {
     // MARK: - Current Status
     @State var currentFocus = "Mastering SwiftUI architecture patterns"
     @State var openToCollaboration = true
-    var funFact = "I debug by nostalgia and solve by curiosity"
+    var funFact = "Apple enthusiast at heart - fell in love with the ecosystem and wanted to build for it"
 
     // MARK: - Contact
     let github = URL(string: "https://github.com/ecanalle")!
@@ -91,33 +91,6 @@ final class EricCanalle: Identifiable {
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
   <img src="https://img.shields.io/badge/SQL-555555?logo=code&logoColor=white&style=for-the-badge" alt="SQL"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-// Coming soon - building something amazing with SwiftUI!
-```swift
-var featuredProjects: [Project] = [] // Stay tuned 👀
-```
-
----
-
-## �️ Career Transition: 12-Month Journey to iOS Development
-
-### 📍 Current Phase: **Phase 1 - Fundamentals** (Months 1-3)
-**Goal:** Build a solid foundation in Swift and SwiftUI with functional first projects
-
-```swift
-@Timeline
-var careerRoadmap = [
-    .phase1: "Swift Fundamentals + SwiftUI Basics + First Projects (Months 1-3)",
-    .phase2: "Advanced Patterns + Deeper iOS Knowledge + API Integration (Months 4-8)", 
-    .phase3: "Portfolio Polish + Interviews + Job Market Ready (Months 9-12)"
-]
-```
-
----
 
 ## 💡 Why This Transition?
 
